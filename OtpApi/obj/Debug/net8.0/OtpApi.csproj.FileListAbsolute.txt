@@ -1,0 +1,7 @@
+C:\VERTIV PROJECT\OtpApi\obj\Debug\net8.0\OtpApi.csproj.AssemblyReference.cache
+C:\VERTIV PROJECT\OtpApi\obj\Debug\net8.0\OtpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\VERTIV PROJECT\OtpApi\obj\Debug\net8.0\OtpApi.AssemblyInfoInputs.cache
+C:\VERTIV PROJECT\OtpApi\obj\Debug\net8.0\OtpApi.AssemblyInfo.cs
+C:\VERTIV PROJECT\OtpApi\obj\Debug\net8.0\OtpApi.csproj.CoreCompileInputs.cache
+C:\VERTIV PROJECT\OtpApi\obj\Debug\net8.0\OtpApi.MvcApplicationPartsAssemblyInfo.cs
+C:\VERTIV PROJECT\OtpApi\obj\Debug\net8.0\OtpApi.MvcApplicationPartsAssemblyInfo.cache
